@@ -10,58 +10,73 @@
 ◇ Un allenatore da Alisopoli ha sfidato e battuto con successo Silvestro, il capopalestra di Mistralopoli!
 ◇ Un allenatore da Alisopoli ha sfidato e battuto con successo Ciprian, il capopalestra di Seigaiha City!
 ◇ Un allenatore da Alisopoli ha sfidato e battuto con successo Ciprian, il capopalestra di Seigaiha City!
-◇ “Tender loving care! They grow in no time!" Day Care on Route 3
-◇ “Names will bring you wonderful relationships!" Name Rater in Castelia City
-◇ “Wondering what others are doing? Let's interview them!" Passerby Analytics in Castelia City
-◇ “Run and battle! Trains never stop!" Battle Subway in Nimbasa City
-◇ “Take your first step to stardom." Musical in Nimbasa City
-◇ "Calling all Trainers! Aim for the world championship!" Driftveil World Tournament
-◇ “The biggest shopping area in the entire Unova region. There's nothing you can't buy!" Shopping Mall Nine
-◇ Striaton City is nestled in the forest, and the breeze smells like trees.
-◇ The stairs at the entrance help with heavy snow.
-◇ Striaton Gym is a restaurant where meals--and battles--are served.
-◇ The garden full of green makes you feel warm inside.
-◇ Next to the city is a Day Care, which many Trainers visit.
-◇ You can learn the basics of Pokémon at the Trainers' School.
-◇ Striaton City is nestled in the forest, and the breeze smells like trees.
-◇ The stairs at the entrance help with heavy snow.
-◇ Striaton Gym is a restaurant where meals are served. And so are battles!
-◇ Nacrene City is characterized by its stone pavement and warehouses.
-◇ Pokémon research at the museum starts with their bones.
-◇ Nacrene Gym is a museum where battles and knowledge are pursued.
-◇ Many young artists use the warehouses as their studios.
-◇ Tourists come for the warehouses and the museum.
-◇ You can still see the rail tracks.
-◇ This is a place for people drawn to the arts.
-◇ The theme of the museum is the comparison between culture and nature.
-◇ Nacrene City has produced many famous artists.
-◇ Until recently, Casteliacones were a local secret. Now, they're everyone's favorite!
-◇ The ships that depart the piers of Castelia City go to different places.
-◇ Castelia City is an exciting place, and its Gym is no exception!
-◇ The fountain in the center of town is said to be the hub that connects people.
-◇ Artists from all over the world come to Castelia City to open their art galleries.
-◇ When it comes to buildings, shops, and people, Castelia City is number one in the Unova region.
-◇ Castelia City's skyline looks totally different at night.
-◇ Castelia City offers many cultures and foods from other regions.
-◇ There is a place where passersby answer survey questions.
-◇ Nimbasa City is a place of feverish excitement. Some say that's why it hosts so many battles.
-◇ Heated tennis matches! Glowing basketball matches! The excitement awaits you at Small Court!
-◇ They say someone who loved battles also happened to be a railway maniac, and that's why we now have the Battle Subway.
-◇ Sometimes, scouts spot potentially popular Pokémon at the Musical Theater.
-◇ Star players are here at the stadium today! You might spot your favorite players.
-◇ The famous roller coaster is where you least expect it.
-◇ Enjoy wonderful views, exciting heights, and heart-pounding encounters at the Rondez-View Ferris Wheel!
-◇ You can go to Anville Town from Gear Station.
-◇ Welcome to Nimbasa City, voted as the #1 must-see city on everyone's lifetime list!
-◇ Driftveil City is a major ocean port.
-◇ At one time, the ocean around Driftveil City was thronged with sailboats that took advantage of the wind currents.
-◇ Driftveil has developed as a port of freight and fishery.
-◇ The market is loaded with products from all over the world.
-◇ The city's orange roofs enhance the beauty of sunset.
-◇ The spectacular view of the soaring Charizard Bridge is a must-see.
-◇ Gym Leader Clay is a man who just keeps on digging.
-◇ Everyone looks forward to watching the Pokémon World Tournament.
-◇ The three-star hotel, open to the world, invites you to stay.
+◇"Tender cura amorevole! Crescono in pochissimo tempo! "Day Care sulla Route 3
+◇  "Nomi vi porterà rapporti meravigliosi!" Name Rater nella città di Castelia
+◇ "Vuoi sapere cosa fanno gli altri? Diamo loro un'intervista! "Analisi fatte a città di Castelia
+◇  "Corri e combatti! I treni non si fermano mai! "Subway Battle in Nimbasa città
+◇ "Prendi il tuo primo passo verso la celebrità." Musical in Nimbasa città
+◇ "Chiamata a tutti gli allenatori! Aim per il campionato del mondo!" Driftveil Torneo Mondiale
+◇ "L'area commerciale più grande della regione di Unima intera. Non c'è niente che non si può comprare! "Shopping Mall Nine
+◇ Striaton City è immerso nella foresta, e nella brezza profumata degli alberi.
+◇ Le scale di ingresso con l'aiuto di neve pesante.
+◇ Striaton Gym è un ristorante - dove i pasti vengono serviti - e battaglie.
+◇ Il giardino è pieno di verde, ti fa sentire caldo dentro.
+◇ Vicino alla città è un Day Care, che visita molti allenatori.
+◇ Potete imparare le basi dei Pokémon presso la Scuola degli allenatori '.
+◇ Striaton  è immerso nella foresta, e la brezza profuma di alberi.
+◇ Le scale di ingresso con l'aiuto di neve pesante.
+◇ Striaton Gym è un ristorante dove vengono serviti i pasti. E così sono battaglie!
+◇ Nacrene è caratterizzato da una pavimentazione in pietra e magazzini.
+◇ La ricerca Pokémon presso il museoè  iniziata con le loro ossa.
+◇ Gym Nacrene è un museo in cui sono esercitate le battaglie e le conoscenze.
+◇ Molti artisti giovani usano i magazzini per i loro studi.
+◇ I turisti vengono per i magazzini e il museo.
+◇ Si possono ancora vedere i binari.
+◇ Questo è un posto per persone che sono attirate dall' arte.
+◇ Il tema del museo è il confronto tra cultura e natura.
+◇ Nacrene  ha prodotto molti artisti famosi.
+◇ Fino a poco tempo, il castello dei coni erano un segreto locale. Ora, è preferito da tutti!
+◇ Le navi che partono dai pilastri dalla città di Castelia vanno in posti diversi.
+◇ Castelia  è un luogo eccitante, e la sua palestra non fa eccezione!
+◇ La fontana nel centro della città si dice che sia l'hub che connette le persone.
+◇ Gli artisti provenienti da tutto il mondo vengono a Castelia città ad aprire le loro gallerie d'arte.
+◇ Quando si tratta di edifici, negozi e persone, Castelia  è il numero uno nella regione di Unima.
+Orizzonte ◇ Castelia  sembra completamente diverso di notte.
+◇ Castelia  offre molte culture e cibi provenienti da altre regioni.
+◇ C'è un posto dove i passanti rispondono alle domande del sondaggio.
+◇ Nimbasa  è un luogo d' eccitazione. Alcuni dicono che è per questo che ospita tante battaglie.
+◇ Le partite di tennis riscaldati! Glowing partite di basket! L'emozione vi aspetta a piccola corte!
+◇ Dicono che qualcuno che ha amato le battaglie anche capitato di essere un maniaco della ferrovia, ed è per questo ora abbiamo la metropolitana con battaglia.
+◇ A volte, Scott individua Pokémon potenzialmente popolari presso il Teatro Musicale.
+◇ I giocatori-Star sono qui allo stadio,oggi! Si potrebbe individuare i tuoi giocatori preferiti.
+◇ Le montagne russe famose sono dove meno te lo aspetti.
+◇ Godetevi le magnifiche viste, altezze emozionanti, e da batticuore incontri al Rondez-View Ferris Wheel!
+◇ Si può andare a Anville Town dalla stazione Gear.
+◇ Nimbasa Benvenuti a City, votato come il # 1 must-see città sulla lista di vita di tutti!
+◇ Driftveil City è un importante porto di mare.
+◇ Un tempo, l'oceano intorno Driftveil città era piena di barche a vela che hanno approfittato delle correnti di vento.
+◇ Driftveil si è sviluppata come un porto delle merci e della pesca.
+◇ Il mercato è caricato con i prodotti provenienti da tutto il mondo.
+◇ tetti arancioni della città esaltare la bellezza del tramonto.
+◇ La spettacolare vista del Ponte Charizard impennata è un must-see.
+◇ argilla Leader è un uomo che mantiene solo a scavare.
+Tutti ◇ attendete e guardate il torneo mondiale Pokémon.
+◇ L'albergo a tre stelle, aperta al mondo, vi invita a rimanere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
